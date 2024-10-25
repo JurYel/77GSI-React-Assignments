@@ -1,2 +1,2 @@
 # 77GSI-React-Assignments
-React Assignments from Training
+React Assignments for Training
